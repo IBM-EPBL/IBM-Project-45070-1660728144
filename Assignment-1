@@ -1,3 +1,0 @@
-s="Hi there Jack"
-x=s.split()
-print(x)
